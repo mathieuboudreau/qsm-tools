@@ -39,6 +39,13 @@ Please open an issue or pull request if you believe any corrections or additions
 	* Methods:
 		* Total generalized variation 
 
+* [QSM Pipeline](https://github.com/CAIsr/qsm)
+	* Language: Docker and Singularity image bundles.
+		* Core QSM tools written in Python
+	* License: Unkown
+	* Methods:
+		* Total generalized variation
+
 * [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)
 	* Language: Pyton
 	* License: Unknown
