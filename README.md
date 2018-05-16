@@ -33,6 +33,12 @@ Please open an issue or pull request if you believe any corrections or additions
 		* Closed-form l2-Regularized QSM
 		* l1- and l2-Regularized QSM and PDF background filtering
 
+* [TGV QSM Algorithm](http://www.neuroimaging.at/pages/qsm.php)
+	* Language: Python
+	* License: Unknown
+	* Methods:
+		* Total generalized variation 
+
 * [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)
 	* Language: Pyton
 	* License: Unknown
