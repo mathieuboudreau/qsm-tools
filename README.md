@@ -6,7 +6,7 @@ Please open an issue or pull request if you believe any corrections or additions
 # Tools
 
 * [MEDI Toolbox](http://weill.cornell.edu/mri/pages/qsm.html)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
     * Language: MATLAB
     * License: Academic-only, signup required
@@ -21,7 +21,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [Hongfu Sun's QSM software](https://github.com/sunhongfu/QSM)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: MIT
@@ -32,7 +32,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [Berkin Bilgic's QSM software collection](https://martinos.org/~berkin/software.html)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
     * Language: MATLAB
     * License: Unknown
@@ -49,7 +49,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [TGV QSM Algorithm](http://www.neuroimaging.at/pages/qsm.php)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: Python
 	* License: Unknown
@@ -60,7 +60,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [QSM Pipeline](https://github.com/CAIsr/qsm)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: Docker and Singularity image bundles.
 		* Core QSM tools written in Python
@@ -72,7 +72,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: Pyton
 	* License: Unknown
@@ -83,7 +83,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [STI Suite](http://people.duke.edu/~cl160/index_files/page0001.html)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: Non-commercial academic use only, email signup required
@@ -94,7 +94,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [Quantitative Susceptibility Mapping for MRI part 1](https://www.mathworks.com/matlabcentral/fileexchange/48557-quantitative-susceptibility-mapping-for-mri-part-1)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: MIT
@@ -105,7 +105,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [Quantitative Susceptibility Mapping for MRI part 2](https://www.mathworks.com/matlabcentral/fileexchange/50940-quantitative-susceptibility-mapping-for-mri-part-2)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: MIT
@@ -116,7 +116,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [QSM SSTV](https://github.com/AlanKuurstra/qsm_sstv)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: Unknown
@@ -127,7 +127,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [pyQSM](https://github.com/AlanKuurstra/pyQSM)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: Python
 	* License: Unknown
@@ -138,7 +138,7 @@ Please open an issue or pull request if you believe any corrections or additions
 <p>
 
 * [QSM L0 reconstruction algorithm](https://github.com/littlepig380/QSM-L0-reconstruction-algorithm)<details>
-	<summary>Tool Details</summary>
+	<summary>Details</summary>
 
 	* Language: MATLAB
 	* License: Unkown
