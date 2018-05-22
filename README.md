@@ -1,5 +1,5 @@
 # QSM Tools
-List of tools and demo data related to quantitative susceptibility mapping (QSM) MRI.
+List of open-source quantitative susceptibility mapping (QSM) MRI software packages and data.
 
 Please open an issue or pull request if you believe any corrections or additions to the list should be made.
 
