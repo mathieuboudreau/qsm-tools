@@ -82,7 +82,7 @@ Please open an issue or pull request if you believe any corrections or additions
 </details>
 <p>
 
-* [STI Suite](http://people.duke.edu/~cl160/index_files/page0001.html)<details>
+* [STI Suite](http://people.duke.edu/~cl160/index_files/page0001.html)([alternate link](https://people.eecs.berkeley.edu/~chunlei.liu/software.html))<details>
 	<summary>Details</summary>
 
 	* Language: MATLAB
@@ -146,4 +146,74 @@ Please open an issue or pull request if you believe any corrections or additions
 		* L0 reconstruction
 
 </details>
+<p>
+
+# Data
+
+* [QSM reconstruction challenge 2016](http://www.neuroimaging.at/pages/qsm.php)<details>
+	<summary>Details</summary>
+	* Field strength: 3.0 Tesla
+	* Resolution: 1.06 mm
+	* Subject: Healthy volunteer
+	* Other:
+		* A reference susceptibility map computed using the susceptibility tensor imaging algorithm on data acquired at 12 head orientations.
+
+</details>
+
+<p>
+
+* [STI Suite](https://people.eecs.berkeley.edu/~chunlei.liu/software.html)<details>
+	<summary>Details</summary>
+	* Human Brain Single Echo 2D
+		* Field strength: 3.0 Tesla
+		* Resolution: 1.8 x 1.8 x 3.0 mm<sup>3</sup>
+		* Subject: Human
+	* Human Brain Single Echo 3D
+		* Field strength: 3.0 Tesla
+		* Resolution: 1.25 x 1.25 x 2.0 mm<sup>3</sup>
+		* Subject: Human
+	* Human Brain Multi Echo 3D
+		* Field strength: 3.0 Tesla
+		* Resolution: 1.25 x 1.25 x 2.0 mm<sup>3</sup>
+		* Subject: Human
+	* Mouse Brain 3D
+		* Field strength: 9.4 Tesla
+		* Resolution: 1.0 x 1.0 x 2.0 um<sup>3</sup>
+		* Subject: Human
+
+</details>
+
+<p>
+
+* [MEDI Toolbox](http://weill.cornell.edu/mri/pages/qsm.html)<details>
+	<summary>Details</summary>
+
+	* Field strength: Unkown
+	* Resolution: 0.9375 x 0.9375 x 2.0 mm<sup>3</sup>
+	* Subject: Human and simulation
+	* Other:
+		* Siemens and GE datasets
+</details>
+
+<p>
+
+* [Quantitative Susceptibility Mapping (QSM): Decoding MRI Data for a Tissue Magnetic Biomarker](http://weill.cornell.edu/mri/pages/qsmreview.html)<details>
+	<summary>Details</summary>
+
+	* Field strength: Unkown
+	* Resolution: 0.9375 x 0.93785 x 1.0 mm<sup>3</sup>
+	* Subject: Human and simulation
+
+</details>
+
+<p>
+
+* [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)<details>
+	<summary>Details</summary>
+	* Field strength: Unknown
+	* Resolution: Unknown
+	* Subject: Human
+
+</details>
+
 <p>
