@@ -152,6 +152,7 @@ Please open an issue or pull request if you believe any corrections or additions
 
 * [QSM reconstruction challenge 2016](http://www.neuroimaging.at/pages/qsm.php)<details>
 	<summary>Details</summary>
+	
 	* Field strength: 3.0 Tesla
 	* Resolution: 1.06 mm
 	* Subject: Healthy volunteer
@@ -164,6 +165,7 @@ Please open an issue or pull request if you believe any corrections or additions
 
 * [STI Suite](https://people.eecs.berkeley.edu/~chunlei.liu/software.html)<details>
 	<summary>Details</summary>
+	
 	* Human Brain Single Echo 2D
 		* Field strength: 3.0 Tesla
 		* Resolution: 1.8 x 1.8 x 3.0 mm<sup>3</sup>
@@ -193,6 +195,7 @@ Please open an issue or pull request if you believe any corrections or additions
 	* Subject: Human and simulation
 	* Other:
 		* Siemens and GE datasets
+
 </details>
 
 <p>
@@ -210,6 +213,7 @@ Please open an issue or pull request if you believe any corrections or additions
 
 * [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)<details>
 	<summary>Details</summary>
+	
 	* Field strength: Unknown
 	* Resolution: Unknown
 	* Subject: Human
