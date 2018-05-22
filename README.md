@@ -3,8 +3,8 @@ List of tools and demo data related to quantitative susceptibility mapping (QSM)
 
 Please open an issue or pull request if you believe any corrections or additions to the list should be made.
 
-* [Tools](#Tools)
-* [Data](#Data)
+* [Tools](https://github.com/mathieuboudreau/qsm-tools#tools)
+* [Data](https://github.com/mathieuboudreau/qsm-tools#data)
 
 # Tools
 
