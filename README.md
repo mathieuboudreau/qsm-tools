@@ -8,6 +8,23 @@ Please open an issue or pull request if you believe any corrections or additions
 
 # Tools
 
+* [SEPIA](https://github.com/kschan0214/sepia)<details>
+	<summary>Details</summary>
+    * Language: MATLAB
+    * License: MIT
+    * Description:
+    	* Provides a GUI with other tools to create pipelines.
+    	* Tools:
+		* [MEDI toolbox](http://pre.weill.cornell.edu/mri/pages/qsm.html)
+		* [STI suite](https://people.eecs.berkeley.edu/%7Echunlei.liu/software.html)
+		* [FANSI toolbox](https://gitlab.com/cmilovic/FANSI-toolbox/-/tree/b6ac1c9ea03380722ebe25a6dbef33fff4ea3700)
+		* [SEGUE](https://xip.uclb.com/i/software/SEGUE.html)
+		* [MRI susceptibility calculation methods](https://xip.uclb.com/product/mri_qsm_tkd)
+		* [ROMEO](https://github.com/korbinian90/ROMEO/releases)
+
+</details>
+<p>
+	
 * [MEDI Toolbox](http://weill.cornell.edu/mri/pages/qsm.html)<details>
 	<summary>Details</summary>
 
