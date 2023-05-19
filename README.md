@@ -95,7 +95,7 @@ Please open an issue or pull request if you believe any corrections or additions
 * [Susceptibility Imaging Toolkit](https://github.com/stevenxcao/susceptibility-imaging-toolkit)<details>
 	<summary>Details</summary>
 
-	* Language: Pyton
+	* Language: Python
 	* License: Unknown
 	* Methods:
 		* QSM inversion
